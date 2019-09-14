@@ -1,0 +1,7 @@
+C:\Users\rhett\source\repos\CorePortofolio1\CorePortofolio1\bin\Debug\CorePortofolio1.exe.config
+C:\Users\rhett\source\repos\CorePortofolio1\CorePortofolio1\bin\Debug\CorePortofolio1.exe
+C:\Users\rhett\source\repos\CorePortofolio1\CorePortofolio1\bin\Debug\CorePortofolio1.pdb
+C:\Users\rhett\source\repos\CorePortofolio1\CorePortofolio1\obj\Debug\CorePortofolio1.csprojAssemblyReference.cache
+C:\Users\rhett\source\repos\CorePortofolio1\CorePortofolio1\obj\Debug\CorePortofolio1.csproj.CoreCompileInputs.cache
+C:\Users\rhett\source\repos\CorePortofolio1\CorePortofolio1\obj\Debug\CorePortofolio1.exe
+C:\Users\rhett\source\repos\CorePortofolio1\CorePortofolio1\obj\Debug\CorePortofolio1.pdb
